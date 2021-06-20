@@ -1,0 +1,77 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="teplovdome.com" resolutions="1x" timestamp="1624215405762">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="3845369576" ref="index"/>
+    <file name="iefonts_index.css" crc="4065279192" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u1304.php" crc="287100418" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="form-u511.php" crc="4268379162" ref="index"/>
+    <file name="form-u837.php" crc="85047694" ref="index"/>
+    <file name="form-u1371.php" crc="4215571311" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="104464263" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cancel-music.png" crc="297124454" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="phone 1@2x-u1220.png" crc="343819370" ref="index"/>
+    <file name="icon1-u361.png" crc="268169910" ref="index"/>
+    <file name="icon2-u386.png" crc="4268955571" ref="index"/>
+    <file name="icon3-u396.png" crc="3815313442" ref="index"/>
+    <file name="icon4-u406.png" crc="331650022" ref="index"/>
+    <file name="icon5-u414.png" crc="3906836246" ref="index"/>
+    <file name="icon6-u421.png" crc="3798483647" ref="index"/>
+    <file name="bg1.jpg" crc="132422253" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="eye@2x-u730.png" crc="3811228500" ref="index"/>
+    <file name="wallet 3@2x-u690.png" crc="533420419" ref="index"/>
+    <file name="users 1@2x-u710.png" crc="4196980720" ref="index"/>
+    <file name="chat bubble dots@2x-u720.png" crc="273057905" ref="index"/>
+    <file name="star@2x-u740.png" crc="4056833165" ref="index"/>
+    <file name="clock 2@2x-u700.png" crc="101250882" ref="index"/>
+    <file name="mobile_img-crop-u775.png" crc="3962381776" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2photodune.jpg" crc="86442378" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="3photodune.jpg" crc="320518092" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="photodune.jpg" crc="4170204243" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="two-quotes-u1029.png" crc="432040858" ref="index"/>
+    <file name="two-quotes-u1039.png" crc="432040858" ref="index"/>
+    <file name="two-quotes-u1049.png" crc="432040858" ref="index"/>
+    <file name="left arrow 3@2x-u1080.png" crc="56846726" ref="index"/>
+    <file name="right arrow 3@2x-u1100.png" crc="456368000" ref="index"/>
+  </folder>
+  <file name="index.html" crc="99285695" seo="true" mt="1624215062792" redirect="true"/>
+</manifest>
